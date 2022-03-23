@@ -1,0 +1,14 @@
+.nav-bar {
+  background-color: cadetblue;
+}
+
+.img-title {
+  width: 100vw;
+  height: auto;
+  /* min-height: 100vh; */
+  /* max-height: 80vh; */
+}
+
+.img-wrapper {
+  overflow: hidden;
+}
